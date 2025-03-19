@@ -1,0 +1,4 @@
+BST Insert: 0.000011 seconds
+RBT Insert: 0.000023 seconds
+BST Search: 0.000000 seconds
+RBT Search: 0.000008 seconds
