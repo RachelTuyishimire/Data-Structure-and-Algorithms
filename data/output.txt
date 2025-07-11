@@ -1,5 +1,7 @@
 rtuyishi
-No sentences found with 5 words
+Length 5:
+The quick brown fox jumps. [4.2]
 Range 2-4:
- Yes it is! [2.3]
+ Is this short? [3.7]
+ Yes it is! [3.7]
 --------------------

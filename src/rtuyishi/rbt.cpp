@@ -58,6 +58,7 @@ static void rotateRight(RBT* tree, RBTNode* x) {
     x->parent = y;
 }
 
+
 static void fixInsert(RBT* tree, RBTNode* z) {
     RBTNode* y;
     while (z->parent != NULL && z->parent->color == RED) {
