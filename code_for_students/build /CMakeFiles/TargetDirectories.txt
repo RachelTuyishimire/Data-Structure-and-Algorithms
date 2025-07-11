@@ -1,0 +1,3 @@
+/Users/rachel/Documents/ConnectedItems_for_students/code_for_students/build /CMakeFiles/homework.dir
+/Users/rachel/Documents/ConnectedItems_for_students/code_for_students/build /CMakeFiles/edit_cache.dir
+/Users/rachel/Documents/ConnectedItems_for_students/code_for_students/build /CMakeFiles/rebuild_cache.dir
