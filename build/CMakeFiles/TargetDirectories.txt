@@ -1,0 +1,3 @@
+/Users/rachel/Documents/assignment3/build/CMakeFiles/TextAnalysisBST.dir
+/Users/rachel/Documents/assignment3/build/CMakeFiles/edit_cache.dir
+/Users/rachel/Documents/assignment3/build/CMakeFiles/rebuild_cache.dir
