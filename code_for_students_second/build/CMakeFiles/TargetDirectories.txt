@@ -1,0 +1,3 @@
+/Users/rachel/Documents/assignment5/code_for_students_second/build/CMakeFiles/homework.dir
+/Users/rachel/Documents/assignment5/code_for_students_second/build/CMakeFiles/edit_cache.dir
+/Users/rachel/Documents/assignment5/code_for_students_second/build/CMakeFiles/rebuild_cache.dir
